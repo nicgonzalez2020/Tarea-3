@@ -1,3 +1,5 @@
+package org.example.expendedor;
+
 /**
  * Clase Bebida que extiende a la Clase Producto
  *

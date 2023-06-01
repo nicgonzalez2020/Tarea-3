@@ -1,3 +1,5 @@
+package org.example.expendedor;
+
 /**
  * Clase Moneda, molde para crear las monedas
  * utilizadas para comprar en el expendedor

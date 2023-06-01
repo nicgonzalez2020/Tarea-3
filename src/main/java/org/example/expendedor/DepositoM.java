@@ -1,3 +1,5 @@
+package org.example.expendedor;
+
 import java.util.ArrayList;
 /**
  * Clase depositoM donde se guarda una lista de <Monedas>

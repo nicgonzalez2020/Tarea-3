@@ -1,3 +1,5 @@
+package org.example.expendedor;
+
 /**
  * Clase Producto, la cual es utilizada para crear
  * distintos tipos de productos

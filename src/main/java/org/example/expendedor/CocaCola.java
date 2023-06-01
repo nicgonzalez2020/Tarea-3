@@ -1,3 +1,5 @@
+package org.example.expendedor;
+
 /**
  * Clase CocaCola, un tipo de bebida
  *

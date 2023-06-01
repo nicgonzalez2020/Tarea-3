@@ -1,3 +1,5 @@
+package org.example.expendedor;
+
 /**
  * Clase moneda que crea monedas de 100
  *

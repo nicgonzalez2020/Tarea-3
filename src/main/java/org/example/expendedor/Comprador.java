@@ -1,3 +1,5 @@
+package org.example.expendedor;
+
 /**
  * Clase Comprador la cual se utiliza para realizar la compra del producto
  *

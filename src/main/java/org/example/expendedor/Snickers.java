@@ -1,3 +1,5 @@
+package org.example.expendedor;
+
 /**
  * Clase Snicker, un tipo de dulce
  *

@@ -1,3 +1,5 @@
+package org.example.expendedor;
+
 /**
  * Clase excepcion que se lanza cuando el valor
  * de la moneda no es suficiente

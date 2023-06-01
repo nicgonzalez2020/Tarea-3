@@ -1,3 +1,5 @@
+package org.example.expendedor;
+
 /**
  * Clase excepcion que se lanza cuando no hay productos
  *

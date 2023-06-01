@@ -1,3 +1,5 @@
+package org.example.expendedor;
+
 /**
  * Clase expendedor,medio por el cual el comprador ingresa la moneda
  * obtiene su producto y recibe su vuelto

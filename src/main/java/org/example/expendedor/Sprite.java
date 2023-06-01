@@ -1,3 +1,5 @@
+package org.example.expendedor;
+
 /**
  * Clase Sprite, un tipo de bebida
  *

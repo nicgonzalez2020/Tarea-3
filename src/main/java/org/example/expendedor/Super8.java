@@ -1,3 +1,5 @@
+package org.example.expendedor;
+
 /**
  * Clase Super8, un tipo de dulce
  *

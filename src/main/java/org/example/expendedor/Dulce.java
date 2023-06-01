@@ -1,3 +1,5 @@
+package org.example.expendedor;
+
 /**
  * Clase dulce la cual extiende a la clase producto
  *
