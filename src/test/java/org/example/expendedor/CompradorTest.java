@@ -14,9 +14,11 @@ class CompradorTest {
     void setUp() {
         exp = new Expendedor(3,1000);
     }
+
     @AfterEach
     void tearDown() {
     }
+
     @Test
     @DisplayName("Test Comprador")
     public void testComprador() throws Exception {
@@ -25,6 +27,7 @@ class CompradorTest {
         assertNotNull(c= new Comprador(m,Expendedor.COCA,exp));
 
     }
+
     @Test
     @DisplayName("Test vuelto")
     public void testComprador2() throws Exception {
@@ -34,6 +37,7 @@ class CompradorTest {
         assertNotNull(c.cuantoVuelto());
 
     }
+
     @Test
     @DisplayName("Test Consumo")
     public void testComprador3() throws Exception {
@@ -41,5 +45,8 @@ class CompradorTest {
         Comprador c;
         c= new Comprador(m,Expendedor.COCA,exp);
         assertNotNull(c.queConsumiste());
+
     }
+
+
 }

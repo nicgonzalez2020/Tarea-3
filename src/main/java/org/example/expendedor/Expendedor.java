@@ -164,12 +164,7 @@ class Expendedor {
 
     }
 
-    /**
-     *
-     * @return: retorna la cantidad de monedas en el depósito de vuelto
-     */
-    public int taam(){
-        return monVu.tam();
-    }
+
+
 
 }
