@@ -19,14 +19,14 @@ class ExpendedorTest {
     }
 
     @Test
-    @DisplayName("Test Una Bebida")
+    @DisplayName("Test Una Bebida,dinero justo")
     public void testComprarUnaBebida() throws Exception {
         Moneda m = new Moneda1000();
         assertNotNull(exp.comprarProducto(m,Expendedor.COCA));
 
     }
     @Test
-    @DisplayName("Test Otra Bebida")
+    @DisplayName("Test Otra Bebida,dinero justo")
     public void testComprarUnaBebida2() throws Exception {
         Moneda m = new Moneda1000();
         assertNotNull(exp.comprarProducto(m,Expendedor.SPRITE));
@@ -34,16 +34,16 @@ class ExpendedorTest {
     }
 
     @Test
-    @DisplayName("Test Un Dulce")
+    @DisplayName("Test Un Dulce,dinero justo")
     public void testComprarUnDulce() throws Exception {
-        Moneda m = new Moneda1000();
+        Moneda m = new Moneda500();
         assertNotNull(exp.comprarProducto(m,Expendedor.SNKR));
 
     }
     @Test
-    @DisplayName("Test Otro Dulce")
+    @DisplayName("Test Otro Dulce,dinero justo")
     public void testComprarUnDulce2() throws Exception {
-        Moneda m = new Moneda1000();
+        Moneda m = new Moneda500();
         assertNotNull(exp.comprarProducto(m,Expendedor.SPR8));
 
     }
