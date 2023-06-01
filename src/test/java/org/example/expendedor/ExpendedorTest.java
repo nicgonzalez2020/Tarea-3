@@ -16,19 +16,4 @@ class ExpendedorTest {
     void tearDown() {
     }
 
-    @Test
-    void getNumeroBebidas() {
-    }
-
-    @Test
-    void comprarProducto() {
-    }
-
-    @Test
-    void getVuelto() {
-    }
-
-    @Test
-    void taam() {
-    }
 }
