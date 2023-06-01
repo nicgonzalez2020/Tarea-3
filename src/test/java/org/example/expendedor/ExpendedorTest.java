@@ -7,10 +7,10 @@ import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
 class ExpendedorTest {
-    private ExpendedorTest expendedortest;
+    private ExpendedorTest expendedorTest;
     @BeforeEach
     void setUp() {
-        expendedortest = new expendedortest(3);
+        expendedortest = new expendedortest;
     }
 
     @AfterEach
